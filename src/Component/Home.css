@@ -1,0 +1,7 @@
+.shooes{
+    transition: transform 460ms;
+}
+
+.shooes:hover{
+    transform: scale(1.06);
+}
